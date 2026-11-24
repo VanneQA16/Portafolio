@@ -122,8 +122,8 @@ Adaptabilidad y aprendizaje continuo.
 📫 Contacto
 Actualmente me interesa conocer oportunidades profesionales en aseguramiento de calidad de software y colaborar en proyectos que me permitan seguir desarrollando mis competencias técnicas.
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Vanne16QA-181717?style=for-the-badge&logo=github&logoColor=white)
+![LinkedIn](https://www.linkedin.com/in/vane-mel%C3%A9ndez-qa/)
+![GitHub](https://github.com/VanneQA16/Portafolio)
 
 📍 México
 ---
