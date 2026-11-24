@@ -122,8 +122,8 @@ Adaptabilidad y aprendizaje continuo.
 📫 Contacto
 Actualmente me interesa conocer oportunidades profesionales en aseguramiento de calidad de software y colaborar en proyectos que me permitan seguir desarrollando mis competencias técnicas.
 
-![LinkedIn](https://www.linkedin.com/in/vane-mel%C3%A9ndez-qa/)
-![GitHub](https://github.com/VanneQA16/Portafolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vanessa_Meléndez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vane-mel%C3%A9ndez-qa/)
+[![GitHub](https://img.shields.io/badge/GitHub-Vanne16QA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vanne16QA)
 
 📍 México
 ---
