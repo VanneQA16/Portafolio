@@ -3,7 +3,7 @@
 QA Engineer Junior | Manual Testing | Test Automation | API Testing
 
 
-👩‍💻Sobre mí
+👩‍💻 Sobre mí
 
 Soy una profesional en formación en QA Engineering en TripleTen, con experiencia laboral en áreas administrativas y contables. Me interesa el aseguramiento de la calidad de software, la identificación de defectos y la mejora continua de los productos digitales.
 He desarrollado proyectos académicos de pruebas manuales y automatizadas en aplicaciones web, móviles y API REST, así como de validación de bases de datos y análisis de logs.
@@ -32,13 +32,14 @@ Mi experiencia profesional previa me ha permitido desarrollar habilidades de an�
 | Área | Conocimientos |
 | :--- | :--- |
 | **Manual Testing** | Pruebas funcionales, web, móviles y de interfaz de usuario |
-| **Test Automation** | Python, Pytest, pruebas E2E y Page Object Model (POM) |
+| **Test Automation** | Python, Pytest, pruebas E2E y Page Object Model (POM), Selenium, WebDrive |
 | **API Testing** | API REST, métodos HTTP, JSON, autenticación mediante tokens y Postman |
 | **Test Design** | Casos de prueba, checklists, mapas mentales, valores límite y partición de equivalencia |
 | **Database Testing** | Consultas SQL, PostgreSQL y validación de datos |
 | **Defect Management** | Reporte de errores en Jira, trazabilidad e informes de pruebas |
 | **Troubleshooting** | Análisis de logs, línea de comandos e investigación de errores HTTP |
-| **Version Control** | Git y GitHub |
+| **Version Control** | Git y GitHub 
+| **Test Mobile** | Android Studio, Samsung Developer |
 
 
 
@@ -73,7 +74,7 @@ Tecnologías: Python, Pytest, Git, GitHub.
 Automatización de nueve escenarios para validar el campo `name` en la creación de kits personales.
 Autenticación mediante tokens y encabezados de autorización.
 Pruebas positivas y negativas, análisis de valores límite y validación de respuestas HTTP y JSON.
-Tecnologías confirmadas: Git, GitHub. Enfoque: API REST.
+Tecnologías: Python, Postman, Apidoc, Pytest, Git, GitHub. Enfoque: API REST.
 <!-- Agrega aquí el enlace al repositorio de Urban Grocers. -->
 
 
